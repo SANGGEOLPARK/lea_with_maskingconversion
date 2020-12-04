@@ -41,7 +41,7 @@ class LEA(object):
         R=12
         T=2*R
         x_p=R^r
-        O=R&x_a
+        O=R&x_p
         x_p=T^A
         R=R^x_p
         R=R&r
