@@ -1,5 +1,5 @@
 # lea_with_maskingconversion
-LEA with goubin's masking converion function
+LEA with goubin's masking conversion function
 
 This source was created based on KISA's open source.
 
